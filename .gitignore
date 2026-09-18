@@ -1,0 +1,6 @@
+*.json
+!**/templates/*.json
+log/
+tmp/
+__pycache__/
+.DS_Store
